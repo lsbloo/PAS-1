@@ -1,0 +1,60 @@
+
+.cabecalho {
+	background-color: #DC143C;
+	width: 100px
+	height: 100px;
+}
+.x {
+	background-color: #8B008B;
+	color: #FFC0CB;
+}
+.y {
+	line-height: 100px;
+	position: relative;
+	left: 875px;
+	bottom: 50px;
+}
+.search{
+	color: #FFC0CB;
+}
+.zin{
+	position: relative;
+	color: #FFC0CB;
+	top: 45px;
+}
+.foto {
+		float: bottom;
+
+}
+.italic {
+	color: white;
+}
+.pizza {
+	font-size: 90px;
+	background-color: #FF6347;
+	position: absolute;
+	top: 450px;
+	left: 100px;
+}
+.w{
+	color: white;
+}
+.relative {
+	color: #8B0000;
+	position: relative;
+
+}
+.relativeM{
+	color: #8B0000;
+	position: relative;
+	left: 300px
+}
+.relativeS{
+	color: #8B0000;
+	position: relative;
+	left: 550px
+
+}
+.rodape{
+	background-color: #8B008B;
+}
